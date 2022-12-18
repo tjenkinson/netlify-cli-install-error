@@ -1,0 +1,5 @@
+[build]
+  command = "./build.sh"
+
+[build.environment]
+  NODE_VERSION = "lts/*"
