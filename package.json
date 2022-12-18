@@ -2,6 +2,6 @@
   "private": true,
   "scripts": {},
   "devDependencies": {
-    "netlify-cli": "12.4.0"
+    "netlify-cli": "12.2.9"
   }
 }
