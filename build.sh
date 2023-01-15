@@ -14,4 +14,5 @@ rm -rf node_modules
 
 # npm i netlify-cli@12.2.9
 
-npm i
+# npm i
+npm ci --omit dev
