@@ -12,7 +12,8 @@ echo "============"
 
 rm -rf node_modules
 
-if [ "$NETLIFY" == "true" ] then
+if [ "$NETLIFY" == "true" ]
+then
   # `npm ci` throws an error. See https://github.com/netlify/cli/issues/5323 
   npm i
 else
