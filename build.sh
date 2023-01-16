@@ -9,4 +9,4 @@ echo "============"
 head -n 10 package-lock.json
 echo "============"
 
-npm ci
+npx -y npm-ci-please@1
